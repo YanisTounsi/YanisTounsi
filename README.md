@@ -11,6 +11,21 @@ Bienvenue sur mon profil GitHub !
 - Langages : Python, R, PySpark
 - Outils : Git, Docker, VS Code
 
+## Compétences
+- statistiques, économétrie, analyse quantitative
+
+## Expériences professionnelles
+- Tuteur académique
+  
+
+
+
+
+
+
+
+
+
 ## Me contacter
 - Email : yanis.tounsi@edu.univ-paris13.fr
 - LinkedIn : www.linkedin.com/in/yanis-tounsi-156169348
