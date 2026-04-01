@@ -3,22 +3,22 @@
 Bienvenue sur mon profil GitHub !
 
 ## À propos de moi  
-- Étudiant / Passionné de tech
-- J’apprends actuellement : Python, Git, R...
-- Objectif : Construire des projets utiles et apprendre chaque jour
+- Étudiant passionné par la data et les nouvelles technologies
+- J’apprends actuellement : Python, Git, R, PySpark
+- Objectif : Construire des projets concrets à impact, renforcer mes compétences techniques.
 
 ## Technologies
 - Langages : Python, R, PySpark
-- Outils : Git, Docker, VS Code
+- Outils : Git/Github, Docker, VS Code
 
 ## Compétences
-- Statistiques, économétrie, analyse quantitative
+- Statistiques, économétrie, analyse quantitative, analyse de données, manipulation et traitement de données
 
 ## Expériences professionnelles
 - Tuteur académique
 
 ## Intérêt
-- Sport, actualité économique, suivi de nouvelles technologies, Voyage
+- Sport, actualité économique, nouvelles technologies, voyage
 
 
 
