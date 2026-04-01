@@ -1,9 +1,17 @@
-# Bonjour
-Je suis Yanis Tounsi, j'ai 22 ans 
-## Etudiant 
-Je suis étudiant en Master 1 Big Data à l'USPN
-## Compétences
-Language de programmation (R, Python), statistiques, économétrie
-## Projets
-Masterlab (projet de fin d'année) --> application technique
+# Bonjour, je suis Yanis Tounsi
+
+Bienvenue sur mon profil GitHub !
+
+## À propos de moi  
+- Étudiant / Passionné de tech
+- J’apprends actuellement : Python, Git, R...
+- Objectif : Construire des projets utiles et apprendre chaque jour
+
+## Technologies
+- Langages : Python, R, PySpark
+- Outils : Git, Docker, VS Code
+
+## Me contacter
+- Email : yanis.tounsi@edu.univ-paris13.fr
+- LinkedIn : www.linkedin.com/in/yanis-tounsi-156169348
 
