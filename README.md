@@ -12,13 +12,13 @@ Bienvenue sur mon profil GitHub !
 - Outils : Git, Docker, VS Code
 
 ## Compétences
-- statistiques, économétrie, analyse quantitative
+- Statistiques, économétrie, analyse quantitative
 
 ## Expériences professionnelles
 - Tuteur académique
 
 ## Intérêt
-- sport, actualité économique, suivi de nouvelles technologies
+- Sport, actualité économique, suivi de nouvelles technologies, Voyage
 
 
 
