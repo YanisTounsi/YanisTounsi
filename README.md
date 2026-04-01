@@ -16,7 +16,9 @@ Bienvenue sur mon profil GitHub !
 
 ## Expériences professionnelles
 - Tuteur académique
-  
+
+## Intérêt
+- sport, actualité économique, suivi de nouvelles technologies
 
 
 
