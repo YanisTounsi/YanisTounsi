@@ -1,34 +1,44 @@
-# Bonjour, je suis Yanis Tounsi
+Bonjour, je suis Yanis Tounsi 👋
 
 Bienvenue sur mon profil GitHub !
 
-## À propos de moi  
-- Étudiant passionné par la data et les nouvelles technologies
-- J’apprends actuellement : Python, Git, R, PySpark
-- Objectif : Construire des projets concrets à impact, renforcer mes compétences techniques.
-
-## Technologies
-- Langages : Python, R, PySpark
-- Outils : Git/Github, Docker, VS Code
-
-## Compétences
-- Statistiques, économétrie, analyse quantitative, analyse de données, manipulation et traitement de données
-
-## Expériences professionnelles
-- Tuteur académique
-
-## Intérêt
-- Sport, actualité économique, nouvelles technologies, voyage
+À propos de moi
 
 
+🎓 Étudiant en Master Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord
+💼 Première expérience de Data Scientist à La Banque Postale — optimisation de scénarios de détection LCB-FT avec Python et PySpark
+🎯 Objectif : construire des projets data concrets et à impact
+
+
+Technologies
+
+
+Langages : Python (pandas, numpy), R, SQL, PySpark
+Data & BI : Dataiku DSS, Qlik Sense, Power BI
+Outils : Git/GitHub, Google Colab, VS Code
+
+
+Certifications
+
+
+🏅 Dataiku Core Designer (2026)
+📋 PMI KickOff — Gestion de projet
+
+
+Compétences
+
+
+Statistiques, économétrie, analyse quantitative
+Analyse, manipulation et traitement de données
+Modélisation de données (schéma en étoile), tableaux de bord
+
+
+Me contacter
+
+
+📧 Email : yanistounsi954@gmail.com
+💼 LinkedIn : linkedin.com/in/yanis-tounsi-156169348
 
 
 
-
-
-
-
-## Me contacter
-- Email : yanis.tounsi@edu.univ-paris13.fr
-- LinkedIn : www.linkedin.com/in/yanis-tounsi-156169348
 
