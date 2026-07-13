@@ -6,7 +6,7 @@ Bienvenue sur mon profil GitHub !
 
 
 - 🎓 Étudiant en Master Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord
-- 💼 Première expérience de Data Scientist à La Banque Postale — optimisation de scénarios de détection LCB-FT avec Python et PySpark
+- 💼 Première expérience de Data Scientist à La Banque Postale : optimisation de scénarios de détection LCB-FT avec Python et PySpark
 - 🎯 Objectif : construire des projets data concrets et à impact
 
 
