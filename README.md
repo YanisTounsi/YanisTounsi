@@ -37,7 +37,7 @@ Bienvenue sur mon profil GitHub !
 
 
 - 📧 Email : yanistounsi954@gmail.com
-- 💼 LinkedIn : [linkedin.com/in/yanis-tounsi-156169348] (https://www.linkedin.com/in/yanis-tounsi-156169348)
+- 💼 LinkedIn : [linkedin.com/in/yanis-tounsi-156169348](https://www.linkedin.com/in/yanis-tounsi-156169348)
   
 
 
