@@ -14,7 +14,7 @@ Bienvenue sur mon profil GitHub !
 
 
 - **Langages** : Python (pandas, numpy), R, SQL, PySpark
-- **Data & BI** : Dataiku DSS, Qlik Sense, Power BI
+- **Data & BI** : Dataiku DSS, Power BI
 - **Outils** : Git/GitHub, Google Colab, VS Code
 
 
